@@ -9,7 +9,7 @@ body {
   background-attachment: fixed;
   color: #3c2e26;
   display: flex;
-  height: 100vh;
+  height: 200vh;
   animation: fadeIn 2s ease-in;
   position: relative;
 }
